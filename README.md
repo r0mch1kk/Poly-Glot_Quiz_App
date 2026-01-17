@@ -1,4 +1,4 @@
-# Poly-Glot Quiz App 🌍📱
+# PolyGlot Quiz App 🌍📱
 
 An interactive Android application built with **Jetpack Compose** designed for learning and testing language skills (English and Polish). The app features real-time testing, progress tracking via Firebase, and motivational content.
 
