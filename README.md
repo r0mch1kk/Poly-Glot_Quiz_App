@@ -38,7 +38,7 @@ An interactive Android application built with **Jetpack Compose** designed for l
 ### Installation
 1. Clone the repository:
     ```bash 
-    git clone [https://github.com/r0mch1kk/Tests.git](https://github.com/r0mch1kk/Tests.git)
+    git clone [https://github.com/r0mch1kk/Poly-Glot_Quiz_App.git](https://github.com/r0mch1kk/Poly-Glot_Quiz_App.git)
 
 2. Add your google-services.json to the app/ directory.
 
